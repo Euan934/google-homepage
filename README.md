@@ -1,0 +1,1 @@
+This is a project where I will be remaking the Google homepage, if not slightly rougher.
